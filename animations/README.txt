@@ -1,0 +1,1 @@
+This repository is just for my animation projects for future games. That's it. I'm learning how to make games and made this so I can make good animated sprites. :3
